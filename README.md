@@ -11,9 +11,9 @@ Data: 13/12/2023
 La paraula "híbrid", segons el diccionari, en una de les seves accepcions, té el següent significat: "Dicho de una cosa: Que es producto de elementos de diferente naturaleza" ([Híbrido, RAE](https://dle.rae.es/h%C3%ADbrido)) i tenint en compte això, podem afirmar també que hibridació és la producció d'éssers híbrids ([Híbridación, RAE](https://dle.rae.es/hibridaci%C3%B3n)).
 
 En aquest document parlaré de la hibridació dels mitjans, segons el punt de vista de Lev Manovich, és a dir, de com en el meta-medi ordinador, han aparegut infinitat de nous llenguatges, nous programaris, nous algoritmes, que han anat evolucionant i que en molts casos s'han "fusionat" per crear un llenguatge o un mitjà nou. Amb paraules del mateix Manovich:
-#
+##
 > "el metamedio ordenador es un verdadero cajón de sastre para muchas cosas, pero más, que contener una variedad de medios separados, en realidad engloba un conjunto mayor de pequeños componentes que se unen para crear híbridos", Manovich (2013, p.221)
-#
+##
 Partint d'aquestes idees, analitzaré dos casos que considero poden ser representatius d'aquest concepte d'hibridació, intentant utilitzar en tot moment la visió de Lev Manovich per entendre quines tècniques de programari i quins algoritmes s'amaguen darrere d'aquests híbrids.
 
 ## Redescobrint la hibridació: Quill
@@ -28,11 +28,11 @@ A part del fet de tractar-se de realitat virtual, el que converteix a Quill en u
 
 Amb aquests panells podem triar diferents eines com pinzells, goma d'esborrar, línies, etc. Com si es tractés d'una aplicació de dibuix, com Affinity Photo o Krita, per exemple. La diferència és que Quill té en compte els moviments de la nostra mà en els tres eixos (x, y i z) i mentre pintem, podem moure la mà en qualsevol dimensió i estarem creant un objecte 3d de manera similar a com crea un traç un programa vectorial, i que, a més, podrem modificar posteriorment, rotant, escalant, esborrant i texturitzant, és a dir, pintant directament sobre la superfície de l'objecte 3d per modificar el seu aspecte.
 
-Però això no és tot, per acabar de completar aquesta hibridació, Quill ens permet crear un timeline (una altra tècnica transversal i molt utilitzada en tots els programes que permeten crear animacions) i crear keyframes (fotogrames clau) per convertir el que estem dibuixant en una animació que, com és d'esperar, podrem renderitzar, és a dir, capturar imatge a imatge cada frame per convertir-lo en un altre mitjà, el vídeo, que posteriorment podrem editar o compartir fent ús d'altres aplicacions fora de Quill.
+Però això no és tot, per acabar de completar aquesta hibridació, Quill ens permet crear un *timeline* (una altra tècnica transversal i molt utilitzada en tots els programes que permeten crear animacions) i crear *keyframes* (fotogrames clau) per convertir el que estem dibuixant en una animació que, com és d'esperar, podrem renderitzar, és a dir, capturar imatge a imatge cada *frame* per convertir-lo en un altre mitjà, el vídeo, que posteriorment podrem editar o compartir fent ús d'altres aplicacions fora de Quill.
 
 ## Redescobrint la hibridació: Guitar Pro
 
-Amb Guitar Pro trobem un altre bon exemple d'hibridació. Tot i contenir la paraula Guitar en el seu nom, no només està destinada a aquest instrument. Amb aquesta aplicació podrem crear partitures "interactives" que anirem editant com si es tractés d'un editor de textos, ja que la part principal de la nostra aplicació serà el visualitzador de partitures, que seria l'equivalent al visor dels documents en un arxiu de Word. La diferència és que al Guitar Pro ens mostrarà un pentagrama sobre el qual afegir notes.
+Amb Guitar Pro trobem un altre bon exemple d'hibridació. Tot i contenir la paraula Guitar en el seu nom i les nombroses funcions pensades per a guitarristes (com la creació de tablatures), no només està destinada a aquest instrument. Amb aquesta aplicació podrem crear partitures "interactives" que anirem editant com si es tractés d'un editor de textos, ja que la part principal de la nostra aplicació serà el visualitzador de partitures, que seria l'equivalent al visor dels documents en un arxiu de Word. La diferència és que al Guitar Pro ens mostrarà un pentagrama sobre el qual afegir notes.
 
 Primerament, en la nostra partitura haurem de triar, entre altres opcions, el compàs (2/4, ¾, 7/8, etc.) en fer-ho, ens trobem un bon exemple de remediació, on estem fent els mateixos passos que faríem escrivint una partitura a mà, però en aquest cas, la diferència és substancial, ja que, a Guitar Pro, segons el compàs triat, el programa automàticament comprovarà que cada un dels compassos de la nostra composició respectin aquest temps.
 
@@ -42,8 +42,18 @@ A diferència d'un processador de textos, no podem canviar la mida d'un "caràct
 
 Fins aquí, podria semblar que ens trobem només davant d'un exemple de remediació del procés de creació de partitures, però el que converteix Guitar Pro en un bon exemple d'hibridació és que, com comentava a l'inici, les partitures són "interactives", és a dir, que no necessitarem fer cap acció addicional per poder-la reproduir i, quan dic reproduir, em refereixo al fet que podrem escoltar el que hem escrit utilitzant el reproductor MIDI que integra l'aplicació. Només haurem d'assignar un instrument MIDI a la nostra partitura i quan premem la tecla d'espai, estarem escoltant cada una de les notes mentre una barra vertical va avançant per cada un dels compassos a la velocitat que li hàgim indicat en el tempo de la nostra peça.
 
+## Conclusió
+Fins aquí aquests dos exemples d'hibridació que espero que ajudin a entendre millor aquest concepte ideat per Lev Manovich i convidar a tothom a aturar-se un moment a realitzar aquest tipus d'anàlisi en els programaris que fem servir diàriament per entendre una mica millor el món en què vivim, ja que, al cap i a la fi, "la hibridació dels mitjans porta la convergència a la seva màxima expressió, ja que integra diferents plataformes de mitjans en una única experiència d'usuari." (Adell Español, F. *Fonaments i evolució de la multimèdia*, 2024)
+
+---
 ### Referències y Bibliografia
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
-
-Llicència: Material Creative Commons desenvolupat sota llicència CC BY-SA 4.0.
+* Manovich, Lev. (2013). *El Software toma el mando*. Barcelona: Editorial UOC.
+* Mardown. *Qué es Mardown.*[https://markdown.es/](https://markdown.es/)
+* Ferrán Andell. **Remediación, multimedia e hibridación de los medios**. http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
+* Quill. [https://quill.art/](https://quill.art/)
+* Guitar Pro. [https://www.guitar-pro.com/](https://www.guitar-pro.com/)
+* Híbrido. Consultat en data 11 de desmembre de 2023. [https://dle.rae.es/h%C3%ADbrido](https://dle.rae.es/h%C3%ADbrido)
+* Hibridación. Consultat en data 11 de desembre de 2023. [https://dle.rae.es/hibridaci%C3%B3n](https://dle.rae.es/hibridaci%C3%B3n)
+#
+Llicència: Material Creative Commons desenvolupat sota llicència [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
