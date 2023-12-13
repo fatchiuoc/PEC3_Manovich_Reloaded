@@ -20,8 +20,7 @@ En aquest document parlaré de la hibridació dels mitjans, segons el punt de vi
 Partint d'aquestes idees, analitzaré dos casos que considero poden ser representatius d'aquest concepte d'hibridació, intentant utilitzar en tot moment la visió de Lev Manovich per entendre quines tècniques de programari i quins algoritmes s'amaguen darrere d'aquests híbrids.
 
 ## Redescobrint la hibridació: Quill
-
-![icon-196x196](https://github.com/fatchiuoc/PEC3_Manovich_Reloaded/assets/153509316/8ad76869-7a86-4b66-9b84-8940da2a446b)
+<img src="https://github.com/fatchiuoc/PEC3_Manovich_Reloaded/assets/153509316/8ad76869-7a86-4b66-9b84-8940da2a446b" width=400>
 
 Quill és una aplicació que es va crear per poder il·lustrar i animar en un entorn de realitat virtual (VR, de virtual reality). El que implica treballar en una aplicació en VR és que necessitem un dispositiu especial per poder-hi treballar, les ulleres de realitat virtual. Programaris amb característiques semblants a Quill ja existien molt abans que fos creat. Qualsevol eina de modelatge i animació en un entorn tridimensional (com per exemple Blender o Maya), fa ús d'un espai en tres dimensions on podem navegar i veure els objectes que creem gràcies a un element molt estès des que es van inventar aquests tipus d'entorns: la càmera 3d.
 
@@ -42,7 +41,7 @@ Però això no és tot, per acabar de completar aquesta hibridació, Quill ens p
 > Exemple d'animació creat per Goro Fujita fet amb Quill extret de la pàgina de [Quill](https://quill.art/)
 
 ## Redescobrint la hibridació: Guitar Pro
-![Guitar-Pro-Software](https://github.com/fatchiuoc/PEC3_Manovich_Reloaded/assets/153509316/0331a225-5afb-4f70-9287-225b05ff86ae)
+<img src="https://github.com/fatchiuoc/PEC3_Manovich_Reloaded/assets/153509316/0331a225-5afb-4f70-9287-225b05ff86ae" width=400>
 
 Amb Guitar Pro trobem un altre bon exemple d'hibridació. Tot i contenir la paraula Guitar en el seu nom i les nombroses funcions pensades per a guitarristes (com la creació de tablatures), no només està destinada a aquest instrument. Amb aquesta aplicació podrem crear partitures "interactives" que anirem editant com si es tractés d'un editor de textos, ja que la part principal de la nostra aplicació serà el visualitzador de partitures, que seria l'equivalent al visor dels documents en un arxiu de Word. La diferència és que al Guitar Pro ens mostrarà un pentagrama sobre el qual afegir notes.
 
